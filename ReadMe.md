@@ -174,22 +174,25 @@ Os testes foram escritos para validar operações de débito e crédito, incluin
 ### Captura de tela:
 
 #### Compilando:
-![image](assets\Compilando.png)
+![image](assets/Compilando.png)
 
 #### Testes falhando:
-![image](assets\testes_falhando.jpg)
+![image](assets/testes_falhando.jpg)
 
 #### Testes passando:
 1. Primeira execução com sucesso
-![image](assets\primeira_execucao_com_sucesso.png)
+![image](assets/primeira_execucao_com_sucesso.png)
 
 2. Segunda execução com sucesso 
-![image](assets\segunda_execucao_com_sucesso.png)
+![image](assets/segunda_execucao_com_sucesso.png)
 
 3. Testes
+<br/> 
+
+![image](assets/teste_1.png)
 <br/>
-![image](assets\teste_1.png)
+
+![image](assets/teste_2.png)
 <br/>
-![image](assets\teste_2.png)
-<br/>
-![image](assets\teste_3.png)
+
+![image](assets/teste_3.png)
