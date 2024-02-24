@@ -174,7 +174,7 @@ Os testes foram escritos para validar operações de débito e crédito, incluin
 ### Captura de tela:
 
 #### Compilando:
-![image](assets/compilando.png)
+![image](assets/compilando2.png)
 
 #### Testes falhando:
 ![image](assets/testes_falhando.jpg)
